@@ -51,7 +51,6 @@ while t<tfin and j<50:
     plt.plot(x,T)
     t = t + dt
     j = j + 1 
-#    print(T)
-#    print(np.shape(T))
+    
 plt.show()
 
